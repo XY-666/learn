@@ -1,2 +1,2 @@
-learing Git!
+i am learing Git!
 This is the first line!
